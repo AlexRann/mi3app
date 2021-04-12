@@ -2,6 +2,8 @@
 
 ### Lien vers l'application : https://mi3app.glideapp.io/
 
+## Table of Contents
+1. [General Info](#general-info)
 
 
 ### > 5 onglets principales
@@ -81,5 +83,6 @@ Cet onglet secondaire sert à avoir un bilan des ordonnances que l'utilisateur a
 </br>
 
 
+### General Info
 
 
