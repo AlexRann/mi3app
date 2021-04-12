@@ -23,13 +23,13 @@
 _____________________________________________________________________________________
 </br></br>
 
-### >>> Messages (#onglet-msg)
+### >>> Messages
 Cet onglet sert à communiquer directement avec les services de santé connus.</br>
 Permet de discuter avec un médecin directement, dans le cas où il y prise de rendez-vous, allez sur l'onglet "Mes RDV".
 
 </br>
 
-### >>> Mes RDV (#onglet-rdv)
+### >>> Mes RDV
 Cet onglet sert à répertorier les rendez-vous que vous avez pris avec votre médecin/service de santé.</br>
 C'est à vous d'ajouter les rendez-vous pris avec votre médecin/service de santé.</br>
 Après rendez-vous effectué, vous pouvez ajouter votre ordonnance sur l'application, dans l'onglet "Accueil".
@@ -83,6 +83,5 @@ Cet onglet secondaire sert à avoir un bilan des ordonnances que l'utilisateur a
 </br>
 
 
-### General Info
 
 
