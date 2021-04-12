@@ -7,8 +7,8 @@
 
 
 ### > 5 onglets principales
-- [Messages] (#onglet-msg)
-- [Mes RDV] (#onglet-rdv)
+- [Messages](#onglet-msg)
+- [Mes RDV](#onglet-rdv)
 - <a name="onglet-accueil">Accueil</a>
 - <a name="onglet-histo">Historiques</a>
 - <a name="onglet-reglages">Réglages</a>
@@ -23,7 +23,7 @@
 _____________________________________________________________________________________
 </br></br>
 
-### Messages
+### >>> Messages
 Cet onglet sert à communiquer directement avec les services de santé connus.</br>
 Permet de discuter avec un médecin directement, dans le cas où il y prise de rendez-vous, allez sur l'onglet "Mes RDV".
 
