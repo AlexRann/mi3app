@@ -20,21 +20,21 @@
 _____________________________________________________________________________________
 
 ### >>> Messages (#onglet-msg)
-<p>Cet onglet sert à communiquer directement avec les services de santé connus.
-Permet de discuter avec un médecin directement, dans le cas où il y prise de rendez-vous, allez sur l'onglet "Mes RDV".</p>
+Cet onglet sert à communiquer directement avec les services de santé connus.</br>
+Permet de discuter avec un médecin directement, dans le cas où il y prise de rendez-vous, allez sur l'onglet "Mes RDV".
 
 ### >>> Mes RDV (#onglet-rdv)
-<p>Cet onglet sert à répertorier les rendez-vous que vous avez pris avec votre médecin/service de santé.
-C'est à vous d'ajouter les rendez-vous pris avec votre médecin/service de santé.
-Après rendez-vous effectué, vous pouvez ajouter votre ordonnance sur l'application, dans l'onglet "Accueil".</p>
+Cet onglet sert à répertorier les rendez-vous que vous avez pris avec votre médecin/service de santé.</br>
+C'est à vous d'ajouter les rendez-vous pris avec votre médecin/service de santé.</br>
+Après rendez-vous effectué, vous pouvez ajouter votre ordonnance sur l'application, dans l'onglet "Accueil".
 
 ### >>> Accueil (#onglet-accueil)
-Cet onglet sert premièrement à répertorier l'ordonnance donné par votre médecin.
++Cet onglet sert premièrement à répertorier l'ordonnance donné par votre médecin.</br>
 L'ajout de médicaments (donc d'une ordonnance) créé également un historique que vous pouvez consulter par deux moyens :</br>
--> A partir de l'onglet principale <Historiques>, cliquez sur <Bilan des ordonnances>.</br>
--> A partir de l'onglet secondaire <Bilan des ordonnances>.</br>
-Deuxièmment, cet onglet affiche le nombre de crise(s) que l'utilisateur a eu pendant le mois.
-Et finalement, cet onglet affiche quelques actualités en rapport avec l'épilepsie.
+-> A partir de l'onglet principale "Historiques", cliquez sur "Bilan des ordonnances".</br>
+-> A partir de l'onglet secondaire "Bilan des ordonnances".</br>
++Deuxièmment, cet onglet affiche le nombre de crise(s) que l'utilisateur a eu pendant le mois.</br>
++Et finalement, cet onglet affiche quelques actualités en rapport avec l'épilepsie.
 
 ### >>> Historiques (#onglet-histo)
 
