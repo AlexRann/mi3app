@@ -20,11 +20,10 @@
 - [Bilan des ordonnances](#onglet-bilan-ordo)
 
 </br>
-_____________________________________________________________________________________
+***
 </br></br>
 
 ### >>> Messages
-***
 Cet onglet sert à communiquer directement avec les services de santé connus.</br>
 Permet de discuter avec un médecin directement, dans le cas où il y prise de rendez-vous, allez sur l'onglet "Mes RDV".
 
@@ -60,7 +59,7 @@ Cet onglet sert principalement à envoyer un message à notre équipe de dévelo
 et à changement la couleur de fond de l'application (foncé ou clair).
 
 </br>
-_____________________________________________________________________________________
+***
 </br></br>
 
 ### >>> Tchat 
