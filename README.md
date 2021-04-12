@@ -20,8 +20,8 @@
 _____________________________________________________________________________________
 
 ### >>> Messages (#onglet-msg)
-Cet onglet sert à communiquer directement avec les services de santé connus.</br>
-<p>Permet de discuter avec un médecin directement, dans le cas où il y prise de rendez-vous, allez sur l'onglet <Mes RDV>.</p>
+<p>Cet onglet sert à communiquer directement avec les services de santé connus.</br>
+Permet de discuter avec un médecin directement, dans le cas où il y prise de rendez-vous, allez sur l'onglet "Mes RDV".</p>
 
 ### >>> Mes RDV (#onglet-rdv)
 Cet onglet sert à répertorier les rendez-vous que vous avez pris avec votre médecin/service de santé.
