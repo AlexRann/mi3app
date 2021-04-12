@@ -14,10 +14,10 @@
 - [Réglages](#onglet-reglages)
 
 ### > 4 onglets "secondaires"
-- [Tchat](#onglet-tchat)
-- [Les médicaments](#onglet-medoc)
-- [Bilan cartographique](#onglet-bilan-carto)
-- [Bilan des ordonnances](#onglet-bilan-ordo)
+1. [Tchat](#onglet-tchat)
+2. [Les médicaments](#onglet-medoc)
+3. [Bilan cartographique](#onglet-bilan-carto)
+4. [Bilan des ordonnances](#onglet-bilan-ordo)
 
 </br>
 # Onglets principales
