@@ -31,8 +31,8 @@ Après rendez-vous effectué, vous pouvez ajouter votre ordonnance sur l'applica
 ### >>> Accueil (#onglet-accueil)
 Cet onglet sert premièrement à répertorier l'ordonnance donné par votre médecin.
 L'ajout de médicaments (donc d'une ordonnance) créé également un historique que vous pouvez consulter par deux moyens :
-<p>-> A partir de l'onglet principale <Historiques>, cliquez sur <Bilan des ordonnances>.</p>
-<p>-> A partir de l'onglet secondaire <Bilan des ordonnances>.</p>
+-> A partir de l'onglet principale <Historiques>, cliquez sur <Bilan des ordonnances>.</br>
+-> A partir de l'onglet secondaire <Bilan des ordonnances>.</br>
 Deuxièmment, cet onglet affiche le nombre de crise(s) que l'utilisateur a eu pendant le mois.
 Et finalement, cet onglet affiche quelques actualités en rapport avec l'épilepsie.
 
