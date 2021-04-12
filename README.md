@@ -5,48 +5,39 @@
 
 
 ### > 5 onglets principales
-- Messages (#onglet-msg)
-- Mes RDV (#onglet-rdv)
-- Accueil (#onglet-accueil)
-- Historiques (#onglet-histo)
-- Réglages (#onglet-reglages)
+- <a name="onglet-msg">Messages</a>
+- <a name="onglet-rdv">Mes RDV</a>
+- <a name="onglet-accueil">Accueil</a>
+- <a name="onglet-histo">Historiques</a>
+- <a name="onglet-reglages">Réglages</a>
 
 ### > 4 onglets "secondaires"
-- Tchat (#onglet-tchat)
-- Les médicaments (#onglet-medoc)
-- Bilan cartographique (#onglet-bilan-carto)
-- Bilan des ordonnances (#onglet-bilan-ordo)
+- <a name="onglet-tchat">Tchat</a>
+- <a name="onglet-medoc">Les médicaments</a>
+- <a name="onglet-bilan-carto">Bilan cartographique</a>
+- <a name="onglet-bilan-ordo">Bilan des ordonnances</a>
 
 _____________________________________________________________________________________
 
-### >>> Messages 
-<a name="onglet-msg"></a>
+### >>> Messages (#onglet-msg)
 
-### >>> Mes RDV
-<a name="onglet-rdv"></a>
+### >>> Mes RDV (#onglet-rdv)
 
-### >>> Accueil
-<a name="onglet-accueil"></a>
+### >>> Accueil (#onglet-accueil)
 
-### >>> Historiques
-<a name="onglet-histo"></a>
+### >>> Historiques (#onglet-histo)
 
-### >>> Réglages
-<a name="onglet-reglages"></a>
+### >>> Réglages (#onglet-reglages)
 
 _____________________________________________________________________________________
 
-### >>> Tchat
-<a name="onglet-tchat"></a>
+### >>> Tchat (#onglet-tchat)
 
-### >>> Les médicaments
-<a name="onglet-medoc"></a>
+### >>> Les médicaments (#onglet-medoc)
 
-### >>> Bilan cartographique
-<a name="onglet-bilan-carto"></a>
+### >>> Bilan cartographique (#onglet-bilan-carto)
 
-### >>> Bilan des ordonnances
-<a name="onglet-bilan-ordo"></a>
+### >>> Bilan des ordonnances (#onglet-bilan-ordo)
 
 
 
