@@ -16,12 +16,12 @@
 - <a name="onglet-medoc">Les médicaments</a>
 - <a name="onglet-bilan-carto">Bilan cartographique</a>
 - <a name="onglet-bilan-ordo">Bilan des ordonnances</a>
-
+</br>
 _____________________________________________________________________________________
 
 ### >>> Messages (#onglet-msg)
-Cet onglet sert à communiquer directement avec les services de santé connus.
-Permet de discuter avec un médecin directement, dans le cas où il y prise de rendez-vous, allez sur l'onglet <Mes RDV>.
+Cet onglet sert à communiquer directement avec les services de santé connus.</br>
+<p>Permet de discuter avec un médecin directement, dans le cas où il y prise de rendez-vous, allez sur l'onglet <Mes RDV>.</p>
 
 ### >>> Mes RDV (#onglet-rdv)
 Cet onglet sert à répertorier les rendez-vous que vous avez pris avec votre médecin/service de santé.
