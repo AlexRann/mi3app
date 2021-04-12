@@ -20,6 +20,7 @@
 4. [Bilan des ordonnances](#onglet-bilan-ordo)
 
 </br>
+<hr />
 </br></br>
 
 ### >>> Messages
