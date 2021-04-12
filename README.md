@@ -20,6 +20,7 @@
 - [Bilan des ordonnances](#onglet-bilan-ordo)
 
 </br>
+###
 ***
 </br></br>
 
@@ -59,6 +60,7 @@ Cet onglet sert principalement à envoyer un message à notre équipe de dévelo
 et à changement la couleur de fond de l'application (foncé ou clair).
 
 </br>
+###
 ***
 </br></br>
 
