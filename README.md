@@ -57,7 +57,6 @@ L'ajout de médicaments (donc d'une ordonnance) créé également un historique 
 Cet onglet sert principalement à envoyer un message à notre équipe de développement
 et à changement la couleur de fond de l'application (foncé ou clair).
 
-</br>
 _____________________________________________________________________________________
 
 </br>
