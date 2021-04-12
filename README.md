@@ -74,7 +74,7 @@ Cet onglet secondaire sert à avoir le bilan cartographique sur le nombre total 
 
 </br>
 
-### >>> Bilan des ordonnances 
+### >>> Bilan des ordonnances (#onglet-bilan-ordo)
 Cet onglet secondaire sert à avoir un bilan des ordonnances que l'utilisateur a eu.
 
 </br>
