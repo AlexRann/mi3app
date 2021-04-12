@@ -2,7 +2,7 @@
 
 ### Lien vers l'application : https://mi3app.glideapp.io/
 
-1. [General Info](#general-info)
+- [General Info](#general-info)
 
 
 
