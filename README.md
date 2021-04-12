@@ -18,6 +18,7 @@
 - <a name="onglet-bilan-ordo">Bilan des ordonnances</a>
 </br>
 _____________________________________________________________________________________
+
 </br>
 
 ### >>> Messages (#onglet-msg)
@@ -52,24 +53,30 @@ L'ajout de médicaments (donc d'une ordonnance) créé également un historique 
 </br>
 
 ### >>> Réglages (#onglet-reglages)
-
+Cet onglet sert principalement à envoyer un message à notre équipe de développement
+et à changement la couleur de fond de l'application (foncé ou clair).
 </br>
 _____________________________________________________________________________________
+
 </br>
 
 ### >>> Tchat (#onglet-tchat)
+Cet onglet secondaire sert à discuter avec les utilisateurs de l'application.
 
 </br>
 
 ### >>> Les médicaments (#onglet-medoc)
+Cet onglet secondaire sert à regarder les descriptions des médicaments.
 
 </br>
 
 ### >>> Bilan cartographique (#onglet-bilan-carto)
+Cet onglet secondaire sert à avoir le bilan cartographique sur le nombre total de crise(s).
 
 </br>
 
 ### >>> Bilan des ordonnances (#onglet-bilan-ordo)
+Cet onglet secondaire sert à avoir un bilan des ordonnances que l'utilisateur a eu.
 
 </br>
 
