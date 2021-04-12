@@ -17,7 +17,7 @@
 - Bilan cartographique (#onglet-bilan-carto)
 - Bilan des ordonnances (#onglet-bilan-ordo)
 
-
+_____________________________________________________________________________________
 
 ### >>> Messages 
 <a name="onglet-msg"></a>
@@ -34,6 +34,7 @@
 ### >>> Réglages
 <a name="onglet-reglages"></a>
 
+_____________________________________________________________________________________
 
 ### >>> Tchat
 <a name="onglet-tchat"></a>
