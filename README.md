@@ -16,6 +16,7 @@
 - <a name="onglet-medoc">Les médicaments</a>
 - <a name="onglet-bilan-carto">Bilan cartographique</a>
 - <a name="onglet-bilan-ordo">Bilan des ordonnances</a>
+
 </br>
 _____________________________________________________________________________________
 
@@ -55,6 +56,7 @@ L'ajout de médicaments (donc d'une ordonnance) créé également un historique 
 ### >>> Réglages (#onglet-reglages)
 Cet onglet sert principalement à envoyer un message à notre équipe de développement
 et à changement la couleur de fond de l'application (foncé ou clair).
+
 </br>
 _____________________________________________________________________________________
 
