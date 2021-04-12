@@ -23,7 +23,7 @@
 _____________________________________________________________________________________
 </br></br>
 
-### >>> Messages
+### Messages
 Cet onglet sert à communiquer directement avec les services de santé connus.</br>
 Permet de discuter avec un médecin directement, dans le cas où il y prise de rendez-vous, allez sur l'onglet "Mes RDV".
 
