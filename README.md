@@ -20,7 +20,6 @@
 4. [Bilan des ordonnances](#onglet-bilan-ordo)
 
 </br>
-## Onglets principales
 </br></br>
 
 ### >>> Messages
@@ -59,7 +58,6 @@ Cet onglet sert principalement à envoyer un message à notre équipe de dévelo
 et à changement la couleur de fond de l'application (foncé ou clair).
 
 </br>
-## Onglets "secondaires"
 </br></br>
 
 ### >>> Tchat 
