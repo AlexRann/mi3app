@@ -2,6 +2,8 @@
 
 ### Lien vers l'application : https://mi3app.glideapp.io/
 
+<a name="general-info">ici</a>
+
 
 ### > 5 onglets principales
 - [Messages](#onglet-msg)
@@ -79,6 +81,5 @@ Cet onglet secondaire sert à avoir un bilan des ordonnances que l'utilisateur a
 
 </br>
 
-
-
+### General Info
 
