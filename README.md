@@ -2,8 +2,6 @@
 
 ### Lien vers l'application : https://mi3app.glideapp.io/
 
-- [General Info](#general-info)
-
 
 
 ### > 5 onglets principales
@@ -81,6 +79,3 @@ Cet onglet secondaire sert à avoir le bilan cartographique sur le nombre total 
 Cet onglet secondaire sert à avoir un bilan des ordonnances que l'utilisateur a eu.
 
 </br>
-
-### General Info
-### Bilan des ordonnances
