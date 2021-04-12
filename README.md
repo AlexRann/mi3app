@@ -21,7 +21,7 @@
 
 </br>
 <hr />
-</br></br>
+</br>
 
 ### >>> Messages
 Cet onglet sert à communiquer directement avec les services de santé connus.</br>
@@ -60,7 +60,7 @@ et à changement la couleur de fond de l'application (foncé ou clair).
 
 </br>
 <hr />
-</br></br>
+</br>
 
 ### >>> Tchat 
 Cet onglet secondaire sert à discuter avec les utilisateurs de l'application.
