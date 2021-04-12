@@ -69,12 +69,12 @@ Cet onglet secondaire sert à regarder les descriptions des médicaments.
 
 </br>
 
-### >>> Bilan cartographique 
+### >>> Bilan cartographique
 Cet onglet secondaire sert à avoir le bilan cartographique sur le nombre total de crise(s).
 
 </br>
 
-### >>> Bilan des ordonnances (#onglet-bilan-ordo)
+### >>> Bilan des ordonnances
 Cet onglet secondaire sert à avoir un bilan des ordonnances que l'utilisateur a eu.
 
 </br>
