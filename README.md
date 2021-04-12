@@ -18,6 +18,7 @@
 - <a name="onglet-bilan-ordo">Bilan des ordonnances</a>
 </br>
 _____________________________________________________________________________________
+</br>
 
 ### >>> Messages (#onglet-msg)
 Cet onglet sert à communiquer directement avec les services de santé connus.</br>
@@ -54,6 +55,7 @@ L'ajout de médicaments (donc d'une ordonnance) créé également un historique 
 
 </br>
 _____________________________________________________________________________________
+</br>
 
 ### >>> Tchat (#onglet-tchat)
 
