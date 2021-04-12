@@ -7,8 +7,8 @@
 
 
 ### > 5 onglets principales
-- <a name="onglet-msg">Messages</a>
-- <a name="onglet-rdv">Mes RDV</a>
+- [Messages] (#onglet-msg)
+- [Mes RDV] (#onglet-rdv)
 - <a name="onglet-accueil">Accueil</a>
 - <a name="onglet-histo">Historiques</a>
 - <a name="onglet-reglages">Réglages</a>
