@@ -2,8 +2,8 @@
 
 ### Lien vers l'application : https://mi3app.glideapp.io/
 
-## Table of Contents
-<a name="general-info">ici</a>
+1. [General Info](#general-info)
+
 
 
 ### > 5 onglets principales
