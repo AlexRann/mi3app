@@ -27,8 +27,8 @@
 </br>
 
 ### >>> Messages
-Cet onglet sert à communiquer directement avec les services de santé connus.</br>
-Permet de discuter avec un médecin directement, dans le cas où il y prise de rendez-vous, allez sur l'onglet "Mes RDV".
+Cet onglet sert à communiquer directement avec les services de santé connus de notre équipe.</br>
+Dans le cas où il y a prise de rendez-vous, allez sur l'onglet "Mes RDV".
 
 </br>
 
