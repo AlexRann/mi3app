@@ -45,7 +45,7 @@ L'ajout de médicaments (donc d'une ordonnance) créé également un historique 
 -> A partir de l'onglet principale "Historiques", cliquez sur "Bilan des ordonnances".</br>
 -> A partir de l'onglet secondaire "Bilan des ordonnances".</br>
 + Deuxièmment, cet onglet affiche le nombre de crise(s) que l'utilisateur a eu pendant le mois.</br>
-+ Et finalement, cet onglet affiche quelques actualités en rapport avec l'épilepsie.
++ Et dernièrement, cet onglet affiche quelques actualités en rapport avec l'épilepsie.
 
 </br>
 
@@ -76,11 +76,11 @@ Cet onglet secondaire sert à regarder les descriptions des médicaments.
 </br>
 
 ### >>> Bilan cartographique
-Cet onglet secondaire sert à avoir le bilan cartographique sur le nombre total de crise(s).
+Cet onglet secondaire sert à consulter le bilan cartographique sur le nombre total de crise(s).
 
 </br>
 
 ### >>> Bilan des ordonnances
-Cet onglet secondaire sert à avoir un bilan des ordonnances que l'utilisateur a eu.
+Cet onglet secondaire sert à consulter le bilan des ordonnances que l'utilisateur a eu.
 
 </br>
