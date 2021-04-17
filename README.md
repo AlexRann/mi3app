@@ -2,6 +2,9 @@
 
 ### Lien vers l'application : https://mi3app.glideapp.io/
 
+### Lien vers les fonctionnalités faites de l'application : https://docs.google.com/document/d/1sqoDXYORkIIaudQe9L7cKjcpqV7HIcUjsc7T3_vath0/edit?usp=sharing
+
+</br>
 
 
 ### > 5 onglets principales
