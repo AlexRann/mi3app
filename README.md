@@ -4,6 +4,8 @@
 
 ### Lien vers les fonctionnalités faites de l'application : https://docs.google.com/document/d/1sqoDXYORkIIaudQe9L7cKjcpqV7HIcUjsc7T3_vath0/edit?usp=sharing
 
+### Pour pouvoir avoir accès à l'application, ou la dataset, en tant que développeur, il faudra nous faire parvenir votre e-mail
+
 </br>
 
 
