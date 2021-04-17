@@ -51,9 +51,9 @@ L'ajout de médicaments (donc d'une ordonnance) créé également un historique 
 
 ### >>> Historiques 
 + Premièrement, cet onglet sert à répertorier les crise(s) effectuées, c'est un ajout manuel (si l'application de l'autre groupe ne l'a pas détecté) ou automatique (si l'application de l'autre groupe l'a détecté).
-+ Deuxièment, cet onglet sert à avoir un bilan du nombre de crise(s) par mois.
-+ Troisièment, cet onglet sert à avoir un bilan du nombre de crise(s) au total.
-+ Troisièment, cet onglet sert à avoir un bilan des ordonnances.
++ Deuxièment, cet onglet sert à consulter le bilan du nombre de crise(s) par mois.
++ Troisièment, cet onglet sert à consulter le bilan du nombre de crise(s) au total.
++ Et dernièrement, cet onglet sert à consulter le bilan des ordonnances.
 
 </br>
 
