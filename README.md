@@ -4,7 +4,9 @@
 
 ### Lien vers les fonctionnalités faites de l'application : https://docs.google.com/document/d/1sqoDXYORkIIaudQe9L7cKjcpqV7HIcUjsc7T3_vath0/edit?usp=sharing
 
-### Pour pouvoir avoir accès à l'application, ou la dataset, en tant que développeur, il faudra nous faire parvenir votre e-mail
+### Lien vers notre dépôt Google Drive : https://drive.google.com/drive/u/0/folders/1E_upAPyMT8wA4L_B6Tj6tCCQgDNClcZS
+
+### Pour pouvoir avoir accès à l'application/dataset/dépôt Google Drive, en tant que développeur/commentateur/visionneur, il faudra nous faire parvenir votre e-mail
 
 </br>
 
